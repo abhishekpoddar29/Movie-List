@@ -18,7 +18,7 @@ const Navbar = () => {
                 </h3>
             </Link>
         </div>
-     
+-- Adding comment     
     </div>
   )
 }
