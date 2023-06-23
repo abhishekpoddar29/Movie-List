@@ -1,3 +1,11 @@
+##DESCRIPTION ABOUT THIS APP##
+This App is build on React.js . It includes many functionality like adding and removing the seleted card component.
+For running this app in your local device --> Colen this app using -->git clone https://github.com/abhishekpoddar29/Movie-List.git
+After finishing the cloning process open the react app in vs code and run command --> npm run build
+Now you can get to explore the App,,,, run command in terminal --> npm start
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
