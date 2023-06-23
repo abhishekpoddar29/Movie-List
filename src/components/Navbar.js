@@ -17,8 +17,7 @@ const Navbar = () => {
                     Your Favourites
                 </h3>
             </Link>
-        </div>
--- Adding comment     
+        </div>    
     </div>
   )
 }
