@@ -1,0 +1,1 @@
+export const API_URL= "https://imdb-api.com/en/API/MostPopularMovies/k_gx33lx5w";
