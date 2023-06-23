@@ -20,6 +20,9 @@ const Favorite = () => {
                         <h4>{movie.title}</h4>
                     </div>
                     <div>
+                        <h4>{movie.year}</h4>
+                    </div>
+                    <div>
                         <img src={movie.image} alt='#' />
                     </div>
                     <div>
